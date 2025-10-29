@@ -8,7 +8,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/company/gdg-minya" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/GDG.Minia?mibextid=ZbWKwL" title="Facebook Page"><img width="22" src="images/Facebook_logo_(square).png"> Facebook</a></code>
+  <code><a href="https://www.facebook.com/GDG.Minia?mibextid=ZbWKwL" title="Facebook Page"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" alt="Facebook Logo"> Facebook</a>
+</code>
   <code><a href="https://www.instagram.com/gdgminia/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
