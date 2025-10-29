@@ -62,26 +62,74 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align="center">
-  <a href="https://github.com/gdgminia">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gdgminia&theme=radical&border=7F3FBF&background=0D1117" alt="GDG Minia GitHub streak"/>
-  </a>
-</p>
+<br>
 
 <p align="center">
-  <a href="https://github.com/gdgminia">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gdgminia&theme=radical" alt="GDG Minia GitHub Contribution"/>
-  </a>
+  <div align="center">
+    <!-- denvercoder1 -->
+    <a href="https://github.com/gdgminia/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=gdgminia&theme=react&border=61dafb&hide_border=true" alt="GDG-Minia" />
+    </a>
+    <a href="https://github.com/gdgminia/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gdgminia&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+
+  <br><br><br><br><br><br><br><br><br>
+
+  <div align="center">
+    <a href="https://github.com/gdgminia/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdgminia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gdgminia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<a> 
-    <a href="https://github.com/gdgminia"><img alt="GDG Minia Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GDG Minia&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/gdgminia"><img alt="GDG Minia Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GDG Minia&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<hr>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
-![GDG Minia Graph](https://github-readme-activity-graph.vercel.app/graph?username=gdgminia&custom_title=Abdalrhman%20AboElAzm's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gdgminia/Project1" title="Project 1">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project1&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/gdgminia/Project2" title="Project 2">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project2&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gdgminia/Project3" title="Project 3">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project3&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/gdgminia/Project4" title="Project 4">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project4&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gdgminia/Project5" title="Project 5">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project5&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/gdgminia/Project6" title="Project 6">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project6&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/gdgminia?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
