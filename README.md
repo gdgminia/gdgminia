@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/gdg-minya-410a85383" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/company/gdg-minya" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/GDG.Minia?mibextid=ZbWKwL" title="Facebook Page"><img width="22" src="images/Facebook_logo_(square).png"> Facebook</a></code>
   <code><a href="https://www.instagram.com/gdgminia/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
