@@ -96,37 +96,6 @@
 
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gdgminia/Project1" title="Project 1">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project1&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/gdgminia/Project2" title="Project 2">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project2&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gdgminia/Project3" title="Project 3">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project3&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/gdgminia/Project4" title="Project 4">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project4&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gdgminia/Project5" title="Project 5">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project5&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/gdgminia/Project6" title="Project 6">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gdgminia&repo=Project6&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
